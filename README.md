@@ -31,7 +31,12 @@ Summary of DNA replication https://drive.google.com/file/d/1f5-P4dNwJsjseq5ekx0H
 
 DNA packing https://drive.google.com/file/d/1ffK6WmpXbB_X6HpBBK7oAykWj8dtPpzq/view?usp=sharing
 
-แบบฝึกหัด https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUNkQ3R0FCV1ZGUzgxSjkyWEVDN1kzTElMQS4u
+
+แบบฝึกหัด 
+
+https://drive.google.com/file/d/1OkTnlfkI7LG1YfYyFx6sQfgspCfogJHJ/view?usp=sharing (5.21 min, 47 MB)
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUNkQ3R0FCV1ZGUzgxSjkyWEVDN1kzTElMQS4u
 
 
 
