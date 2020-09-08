@@ -56,6 +56,12 @@ Transcription and translation https://drive.google.com/file/d/181YaQ75soS4TRzpT_
 
 Translation https://drive.google.com/file/d/1aZlYuVUE2_AI5t4x3aZfETvDepjQbE8M/view?usp=sharing
 
+แบบฝึกหัด
+
+https://drive.google.com/file/d/19Nd6-JzydgUwKdODoJ5deFsuVN9KSxMs/view?usp=sharing (12.15 min, 124 MB)
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUQVBSQ0ZLWDUxSjhNSTQ0SklHRkI4VDk4VC4u
+
 
 
 # 3. Gene expression
