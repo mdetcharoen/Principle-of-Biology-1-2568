@@ -86,6 +86,11 @@ mRNA degradation https://drive.google.com/file/d/1ZMmq9oCABHd-ZsTbJhU9VVV_YCBD4Z
 
 RNA processing https://drive.google.com/file/d/1XEeleBxXafF7OYjNlcGUo2uMNk_za0-G/view?usp=sharing
 
+แบบฝึกหัด ไม่เก็บคะแนน
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUQ0dVM0xRR1kwVlg4VU8xTUFTMU9QUzhFQS4u
+
+
 
 
 # 4. Biotechnology
