@@ -135,3 +135,7 @@ https://drive.google.com/file/d/1LPp4XWfLRwdC08ytm428mSjTiGizAM8W/view?usp=shari
 
 
 # คำถาม คำตอบ
+
+ถาม: เอนไซม์ใดที่เอา RNA primer ออก เเละสร้าง DNA ทดเเทน ก่อนที่จะเชื่อม Okazaki fragment เเต่ละอันเข้าด้วยกัน
+
+ตอบ: DNA polymerase I
