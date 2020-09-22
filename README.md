@@ -135,3 +135,19 @@ https://drive.google.com/file/d/1LPp4XWfLRwdC08ytm428mSjTiGizAM8W/view?usp=shari
 ถาม: เอนไซม์ใดที่เอา RNA primer ออก เเละสร้าง DNA ทดเเทน ก่อนที่จะเชื่อม Okazaki fragment เเต่ละอันเข้าด้วยกัน
 
 ตอบ: DNA polymerase I
+
+ถาม: ตรงการเกิด Telomere shortening มันมีผลอะไรต่อร่างกายมั้ยคะเมื่อโครโมโซมของเราสั้นลง มันจะทำให้สังเคราะห์โปรตีนเปลี่ยนมั้ยคะ
+
+ตอบ: โครโมโซมสั้นลงทุกครั้งเมื่อมี DNA replication ไม่มีผลต่อการสังเคราะห์โปรตีนเนื่องจากบริเวณ telomere ไม่มียีนอยู่ 
+
+ถาม: ไม่เคยเรียนมาก่อน แต่ขอเกรดเอนะคะ
+
+ตอบ: ทำแบบฝึกหัด ทำข้อสอบให้ได้นะ
+
+ถาม: งง ไม่เคยเรียนมา
+
+ตอบ: งงตรงไหนง่ะ หาหนังสือ เว็บไซต์อ่านเพิ่มเติม เข้าห้องสมุดหรือยัง
+
+https://www.khanacademy.org/science/biology/classical-genetics/molecular-basis-of-genetics-tutorial/v/dna-deoxyribonucleic-acid
+
+https://openstax.org/books/concepts-biology/pages/9-introduction
