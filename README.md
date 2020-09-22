@@ -151,3 +151,7 @@ https://drive.google.com/file/d/1LPp4XWfLRwdC08ytm428mSjTiGizAM8W/view?usp=shari
 https://www.khanacademy.org/science/biology/classical-genetics/molecular-basis-of-genetics-tutorial/v/dna-deoxyribonucleic-acid
 
 https://openstax.org/books/concepts-biology/pages/9-introduction
+
+ถาม: หนูอยากได้ไฟล์ power point ด้วยค่ะ
+
+ตอบ: เอกสารที่ทำให้แต่ละบทมีรายละเอียดและรูปเยอะกว่านะครับ
