@@ -155,3 +155,16 @@ https://openstax.org/books/concepts-biology/pages/9-introduction
 ถาม: หนูอยากได้ไฟล์ power point ด้วยค่ะ
 
 ตอบ: เอกสารที่ทำให้แต่ละบทมีรายละเอียดและรูปเยอะกว่านะครับ
+
+ถาม: spliceosome ที่เข้ามาช่วยตัดต่อสาย pre-mRNA หมายความว่าหากตัด intron ออกไป Exon 2 สายที่อยู่ตรงข้ามกันจะเข้ามาต่อกันได้สายใหม่ใช่ไหมคะ,  ในส่วนของ alternative RNA splicing อยากให้อธิบายเพิ่มเติมเกี่ยวกับหน้าที่และการทำงานค่ะ, อธิบายเกี่ยวกับ Alternative RNA splicing เพิ่มได้ไหมคะ
+
+ตอบ: Spliceosome ทำหน้าที่ตกแต่ง pre-mRNA โดยนำintronออก นำexonมาต่อกัน exonsมาต่อกันแบบใดก็ได้ 
+
+ยกตัวอย่างเช่น pre-mRNAสายหนึ่งมี่ exon1-intron1-exon2-intron2-exon3 
+
+spliceosome จะกัดintronsออก นำexon1 exon2 exon3 ที่อยู่ใกล้กันมาต่อกันได้เป็น mRNA: exon1-exon2-exon3 
+
+หรือนำexonsที่อยู่ห่างกันมาต่อกันก็ได้ อาจได้mRNAเป็น exon1-exon3-exon2 ก็ได้ 
+
+จาก pre-mRNAหนึ่งสายเมื่อผ่านการตกแต่งแล้วได้เป็นmRNAหลายแบบ เรียกว่า alternative splicing
+
