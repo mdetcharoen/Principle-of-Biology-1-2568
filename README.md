@@ -8,6 +8,12 @@
 
 มีคำถามหรือข้อสงสัยให้ส่งอีเมลมาหาผมที่ mdetcharoen@gmail.com ผมจะนำคำถามและคำตอบมาใส่ไว้ที่นี่
 
+# ข้อสอบเก็บคะแนน
+
+ระหว่างวันจันทร์ที่ 28 กันยายน 2563 เวลา 9.00 น. จนถึงวันอังคารที่ 29 กันยายน 2563 เวลา 9.00 น. 
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUN0xWWUlWRzIxWFdaNU40T1YzN0xLWUdISy4u
+
 
 # ประกาศ
 
