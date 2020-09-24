@@ -160,11 +160,13 @@ https://openstax.org/books/concepts-biology/pages/9-introduction
 
 ตอบ: Spliceosome ทำหน้าที่ตกแต่ง pre-mRNA โดยนำintronออก นำexonมาต่อกัน exonsมาต่อกันแบบใดก็ได้ 
 
-ยกตัวอย่างเช่น pre-mRNAสายหนึ่งมี่ exon1-intron1-exon2-intron2-exon3 
+ยกตัวอย่างเช่น pre-mRNA สายหนึ่งมี่ลำดับเป็น exon1-intron1-exon2-intron2-exon3 
 
-spliceosome จะกัดintronsออก นำexon1 exon2 exon3 ที่อยู่ใกล้กันมาต่อกันได้เป็น mRNA: exon1-exon2-exon3 
+spliceosome จะตัดintronsออก นำexon1 exon2 exon3 ที่อยู่ใกล้กันมาต่อกันได้เป็น mRNA: exon1-exon2-exon3 
 
 หรือนำexonsที่อยู่ห่างกันมาต่อกันก็ได้ อาจได้mRNAเป็น exon1-exon3-exon2 ก็ได้ 
 
-จาก pre-mRNAหนึ่งสายเมื่อผ่านการตกแต่งแล้วได้เป็นmRNAหลายแบบ เรียกว่า alternative splicing
+ดังนั้นจาก pre-mRNAหนึ่งสายเมื่อผ่านการตกแต่งแล้วได้เป็นmRNAที่พร้อมใช้งานได้หลายแบบ เรียกว่า alternative splicing
+
+https://www.cell.com/current-biology/pdf/S0960-9822(14)01553-X.pdf
 
