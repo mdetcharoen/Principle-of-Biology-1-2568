@@ -12,7 +12,11 @@
 
 ระหว่างวันจันทร์ที่ 28 กันยายน 2563 เวลา 9.00 น. จนถึงวันอังคารที่ 29 กันยายน 2563 เวลา 9.00 น. 
 
-https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZBvrvhUN0xWWUlWRzIxWFdaNU40T1YzN0xLWUdISy4u
+นักศึกษาต้องใช้อีเมล @psu.ac.th ในการเข้าสู่แบบทดสอบ
+
+อย่าลืมกรอกรหัสนักศึกษาในแบบทดสอบด้วยครับ
+
+https://docs.google.com/forms/d/e/1FAIpQLSfIKWcMUZ5Bl3ck3BZMwvVe8yn2hk14gAV2ALcwnevF_iP4Ig/viewform?usp=sf_link
 
 
 # ประกาศ
