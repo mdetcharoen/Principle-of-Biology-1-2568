@@ -11,11 +11,9 @@
 
 # 1. DNA replication
 
-เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2563/blob/master/MolecularBiology_th_1.pdf
+เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2564/blob/master/MolecularBiology_th_1.pdf
 
-วิดิโอเรื่องดีเอ็นเอและการเพิ่มจำนวนของดีเอ็นเอ (30.20 min, 218 MB)
 
-https://drive.google.com/file/d/1nQE3dGJc4rxWZVW18CKSauHVojNBuPTU/view?usp=sharing
 
 การ์ตูนเกี่ยวกับการเพิ่มจำนวนของดีเอ็นเอ
 
@@ -36,7 +34,7 @@ DNA packing https://drive.google.com/file/d/1ffK6WmpXbB_X6HpBBK7oAykWj8dtPpzq/vi
 
 แบบฝึกหัด
 
-https://drive.google.com/file/d/1OkTnlfkI7LG1YfYyFx6sQfgspCfogJHJ/view?usp=sharing (5.21 min, 47 MB)
+
 
 
 
@@ -44,11 +42,9 @@ https://drive.google.com/file/d/1OkTnlfkI7LG1YfYyFx6sQfgspCfogJHJ/view?usp=shari
 
 # 2. Transcription and Translation
 
-เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2563/blob/master/MolecularBiology_th_2.pdf
+เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2564/blob/master/MolecularBiology_th_2.pdf
 
-วิดิโอเรื่องการถอดรหัสและการแปลรหัส (28.18 min, 183 MB)
-
-https://drive.google.com/file/d/1G-X-UdUu9WNjJJUYpYolKMdiN8WAD2s6/view?usp=sharing
+วิดิโอเรื่องการถอดรหัสและการแปลรหัส 
 
 การ์ตูนเกี่ยวกับการถอดและการแปลรหัส
 
@@ -60,7 +56,7 @@ Translation https://drive.google.com/file/d/1aZlYuVUE2_AI5t4x3aZfETvDepjQbE8M/vi
 
 แบบฝึกหัด
 
-https://drive.google.com/file/d/19Nd6-JzydgUwKdODoJ5deFsuVN9KSxMs/view?usp=sharing (12.15 min, 124 MB)
+
 
 
 
@@ -68,13 +64,10 @@ https://drive.google.com/file/d/19Nd6-JzydgUwKdODoJ5deFsuVN9KSxMs/view?usp=shari
 
 # 3. Gene expression
 
-เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2563/blob/master/MolecularBiology_th_3.pdf
+เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2564/blob/master/MolecularBiology_th_3.pdf
 
 
-วิดิโอเกี่ยวกับการคุมการแสดงออกของยีน (15.34 min, 101 MB)
-
-https://drive.google.com/file/d/1MYZaoz-AC4wgvCOc4XdCDR8rE4BmueXM/view?usp=sharing
-
+วิดิโอเกี่ยวกับการคุมการแสดงออกของยีน 
 
 การ์ตูนเกี่ยวกับการคุมการแสดงออกของยีน
 
@@ -93,7 +86,7 @@ RNA processing https://drive.google.com/file/d/1XEeleBxXafF7OYjNlcGUo2uMNk_za0-G
 
 # 4. Biotechnology
 
-เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2563/blob/master/MolecularBiology_th_4.pdf
+เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2564/blob/master/MolecularBiology_th_4.pdf
 
 
 วิดิโอเรื่อง biotechnology (40.53 min, 258 MB)
@@ -109,7 +102,7 @@ DNA cloning https://drive.google.com/file/d/15HUOQq77TTRz2MSVIY8Pe3VGV857OqXJ/vi
 
 # 5. Genomics
 
-เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2563/blob/master/MolecularBiology_th_5.pdf
+เอกสาร https://github.com/mdetcharoen/Principle-of-Biology-1-2564/blob/master/MolecularBiology_th_5.pdf
 
 
 วิดิโอเรื่องจีโนมิกส์ (16.09 min, 109 MB)
